@@ -9,4 +9,3 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with getting a Remote/Full-time Job as a Data Analyst.
 - 💬 Ask me about Data Science & Analytics, Database Management Systems, Machine Learning
 - 📫 ⚡ Fun fact: I enjoy playing video games and watching movies.
--->
