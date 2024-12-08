@@ -22,9 +22,9 @@
 <img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png" style="height: 3rem"/>
 </a> --> 
 
-<a href="https://medium.com/@dogukannulu" target="blank">
+<!-- <a href="https://medium.com/@dogukannulu" target="blank">
 <img src="https://cdn.iconscout.com/icon/free/png-512/free-medium-logo-icon-download-in-svg-png-gif-file-formats--social-media-communication-network-pack-logos-icons-3201557.png?f=webp&w=512" style="height: 3rem; background-color:white"/>
-</a>
+</a> -->
 
 <a href="mailto:abadmus012@gmail.com" target="blank">
 <img src="img/mail.png" style="height: 3rem"/>
