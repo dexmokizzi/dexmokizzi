@@ -7,7 +7,7 @@ I build data systems that actually work in the real world.
 
 ---
 
-Over the past 4+ years I've worked across fintech and consulting,
+Over the past 4+ years I've worked across fintech, banking and consulting,
 building pipelines, automating workflows and turning messy data
 into something useful. Currently doing my MSBA at Wichita State
 while building **PaperTrail** 🚀... a tool that converts scanned
